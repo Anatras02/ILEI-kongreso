@@ -1,0 +1,5 @@
+config.ini
+client_secrets.json
+*.session
+*.journal
+file_locali
